@@ -22,7 +22,7 @@ A collection of differently important stuff about mobile phones
  - How Secure is your Android Keystore Authentication? [Blog](https://labs.f-secure.com/blog/how-secure-is-your-android-keystore-authentication/)
  - Gyrophone: Recognizing Speech From Gyroscope Signals [Blog](https://crypto.stanford.edu/gyrophone/)
  - Why F-Droid isn't recommend for security [GitHub](https://github.com/GrapheneOS/os_issue_tracker/issues/341)
- - 
+ 
 
 ## iOS (Apple) 
 
@@ -30,7 +30,7 @@ A collection of differently important stuff about mobile phones
  - (2016) Demystifying the Secure Enclave Processor [YouTube](https://www.youtube.com/watch?v=7UNeUT_sRos)
  - (2018) A14's new memory tagging - "Memory Tagging and how it improves C/C++ memory safety" [YouTube](https://www.youtube.com/watch?v=lLEcbXidK2o)
  - (2018) KTRR [GitHub](https://siguza.github.io/KTRR/)
- -  (2019) Recreating An iOS 0-Day Jailbreak Out Of Apple's Security Updates [YouTube](https://www.youtube.com/watch?v=p512McKXukU)
+ - (2019) Recreating An iOS 0-Day Jailbreak Out Of Apple's Security Updates [YouTube](https://www.youtube.com/watch?v=p512McKXukU)
  - (2019) "What's in a Jailbreak? Hacking the iPhone: 2014 - 2019" [YouTube](https://www.youtube.com/watch?v=31azOpD7DmI)
  - (2019) Evolution of iOS mitigations [PDF](https://github.com/ssd-secure-disclosure/typhooncon2019/blob/master/Siguza%20-%20Mitigations.pdf)
  - (2019) Examining Pointer Authentication on the iPhone XS [Blog](https://googleprojectzero.blogspot.com/2019/02/examining-pointer-authentication-on.html)
@@ -39,6 +39,7 @@ A collection of differently important stuff about mobile phones
  - (2020) The core of Apple is PPL: Breaking the XNU kernel's kernel [Blog](https://googleprojectzero.blogspot.com/2020/07/the-core-of-apple-is-ppl-breaking-xnu.html)
  - (2020) PAN [GitHub](https://siguza.github.io/PAN/)
  - (2020) "Psychic Paper" [GitHub](https://siguza.github.io/psychicpaper/)
+  - (2020) Behind the scenes of iOS and Mac Security [YouTube](https://www.youtube.com/watch?v=3byNNUReyvE)
  - Billy Ellis [YouTube Channel](https://www.youtube.com/c/BillyEllis/)
  - ARM assembly basics [Blog](https://azeria-labs.com/writing-arm-assembly-part-1/)
  - Why are iPhones considered better for privacy/security? [Reddit](https://www.reddit.com/r/privacytoolsIO/comments/j09m57/why_are_iphones_considered_better_for/g6pxuez/)
