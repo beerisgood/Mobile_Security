@@ -21,7 +21,7 @@ A collection of differently important stuff about mobile phones
  - Cellebrire UFED extraction [Reddit](https://www.reddit.com/r/GrapheneOS/comments/c0v33r/cellebrire_ufed_extraction_with_graphene_os/)
  - How Secure is your Android Keystore Authentication? [Blog](https://labs.f-secure.com/blog/how-secure-is-your-android-keystore-authentication/)
  - Gyrophone: Recognizing Speech From Gyroscope Signals [Blog](https://crypto.stanford.edu/gyrophone/)
- - Why F-Droid isn't recommend for security [GitHub](https://github.com/GrapheneOS/os_issue_tracker/issues/341)
+ - Why F-Droid isn't recommend for security [GitHub](https://github.com/GrapheneOS/os_issue_tracker/issues/341#issuecomment-699903065)
  
 
 ## iOS (Apple) 
