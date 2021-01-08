@@ -22,6 +22,7 @@ A collection of differently important stuff about mobile phones
  - How Secure is your Android Keystore Authentication? [Blog](https://labs.f-secure.com/blog/how-secure-is-your-android-keystore-authentication/)
  - Gyrophone: Recognizing Speech From Gyroscope Signals [Blog](https://crypto.stanford.edu/gyrophone/)
  - Why F-Droid isn't recommend for security [GitHub](https://github.com/GrapheneOS/os_issue_tracker/issues/341#issuecomment-699903065)
+ - a [technical chat](https://github.com/madaidans-insecurities/madaidans-insecurities.github.io/issues/1) about Android with Daniel Micay
  
 
 ## iOS (Apple) 
