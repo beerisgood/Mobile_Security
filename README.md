@@ -23,6 +23,8 @@ A collection of differently important stuff about mobile phones
  - Gyrophone: Recognizing Speech From Gyroscope Signals [Blog](https://crypto.stanford.edu/gyrophone/)
  - Why F-Droid isn't recommend for security [GitHub](https://github.com/GrapheneOS/os_issue_tracker/issues/341#issuecomment-699903065)
  - a [technical chat](https://github.com/madaidans-insecurities/madaidans-insecurities.github.io/issues/1) about Android with Daniel Micay
+ - Architectural decomposition and isolation of the Media Frameworks over time [Image](https://1.bp.blogspot.com/-C2DwwKC4hRk/YBMwj0PQgZI/AAAAAAAADhc/za7j8K7zgTs6SbCK6dox8AjWidxRwPbOwCNcBGAsYHQ/s1122/Image%2B%2523%2B2.png)
+ - Data Driven Security Hardening in Android [Blog](https://security.googleblog.com/2021/01/data-driven-security-hardening-in.html)
  
 
 ## iOS (Apple) 
