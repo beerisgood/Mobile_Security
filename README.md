@@ -73,3 +73,4 @@ A collection of differently important stuff about mobile phones
  - Madaidan's Insecurities - Linux Phones [Blog](https://madaidans-insecurities.github.io/linux-phones.html)
  - Linux in general is quite bad for security [Reddit](https://www.reddit.com/r/privacytoolsIO/comments/iac9co/this_smartphone_has_physical_kill_switches_for/g57rmot/?context=3)
  - Librem firmware and hardware is not open source [Reddit](https://www.reddit.com/r/GrapheneOS/comments/c4ocos/question_and_concern_on_pixel_devices_having/ery46wj/)
+ - Librem security theater [Reddit](https://www.reddit.com/r/privacy/comments/letb7y/copperhead_is_tracking_users_and_manipulating/gmm7kl1/)
