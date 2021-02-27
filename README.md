@@ -57,7 +57,6 @@ A collection of differently important stuff about mobile phones
  - Privacy Review - See the trackers hidden in your apps [Blog](https://privacyreview.co/)
  - Should I get an iPhone if I value privacy? [Reddit](https://www.reddit.com/r/privacy/comments/iox6rq/should_i_get_an_iphone_if_i_value_privacy/)
  - iOS advantages [Reddit](https://www.reddit.com/r/privacy/comments/ionbk0/new_phone_creeping_me_out/g4gmwze/)
- - How to configure iOS for privacy [Youtube](https://www.youtube.com/watch?v=nK76EKvburA)
 
 
 ## Custom ROMs (like LineageOS)
