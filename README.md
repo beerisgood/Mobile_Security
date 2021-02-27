@@ -2,7 +2,7 @@
 
 A collection of differently important stuff about mobile phones
 
-### Android (Google)
+### Android (Google) + GrapheneOS
 
  - Android website [Blog](https://www.android.com/)
  - Madaidan's Insecurities - Android [Blog](https://madaidans-insecurities.github.io/android.html)
@@ -64,7 +64,25 @@ A collection of differently important stuff about mobile phones
  - Madaidan's Insecurities - Custom ROMs [Blog](https://madaidans-insecurities.github.io/android.html#custom-roms)
  - Is LineageOS secure? [Reddit](https://www.reddit.com/r/privacy/comments/ib3srt/is_lineage_os_secure/)
  - LineageOS problems with firmware updates & user-debug builds [Reddit](https://www.reddit.com/r/privacy/comments/i80u4b/theymozilla_killed_entire_threat_management_team/g16einx/)
+ - Why can't LineageOS address its security issues? [Reddit](https://www.reddit.com/r/LineageOS/comments/lnjepw/why_cant_lineageos_address_its_security_issues/)
  
+
+## CopperheadOS (**Warning! Scam**)
+
+- Info about CopperheadOS [Twitter](https://twitter.com/DanielMicay/status/1171170734380654597)
+- CopperheadOS Bogus Legal Threat [Blog](https://renlord.com/posts/2020-03-25-copperheados-legal-threat/)
+- Just a reminder that GrapheneOS is being sued by a company that has been harassing Graphene devs [Reddit](https://www.reddit.com/r/privacy/comments/klbjhu/just_a_reminder_that_grapheneos_is_being_sued_by/)
+- Unbelievable: Copperhead registered the grapheneos.ca and grapheneos.net domains and redirected them to their site [Twitter](https://twitter.com/DanielMicay/status/1344166710534959105)
+- ongoing attacks on GrapheneOS [Reddit](https://twitter.com/DanielMicay/status/1171170734380654597)
+- Log of someone who spent hours raiding the GrapheneOS chat channels with many accounts spamming Copperhead talking points and disrupting discussion admitting to being paid 10 EUR / hour by Copperhead. They quickly try making up an excuse but it's clearly not true. [Log](https://freenode.logbot.info/grapheneos/20201218#c6209318)
+- Log from near end of 12 hours of Copperhead spamming / concern trolling in our chat channels yesterday. They join with a new account matching a session of a couple previous ones use to spam, falsely claim to have found a vulnerability, dig themselves in a hole and openly troll via private messages [Log](https://freenode.logbot.info/grapheneos/20210223#c7016769)
+- Copperhead CEO has admitted to their new OS tracking devices including via device identifiers in the update system which are stored in databases mapping device identifiers to customers by their official phone sellers. It's a backdoor enabling targeting devices/users with specially crafted updates [Twitter](https://twitter.com/DanielMicay/status/1363413154131283969)
+- Proof of Copperhead threatening a PhD student for working on GrapheneOS with bogus legal claims. It also shows how they tried to get him in trouble with his university by framing it as him using their resources (which he didn't do) for copyright infringement (which didn't happen, it is open source) [Reddit](https://www.reddit.com/r/GrapheneOS/comments/lppfbm/proof_of_copperhead_threatening_a_phd_student_for/)
+- Archive of Copperhead CEO trying to get Ian Carroll (well known security researcher) fired for sending a single Direct Message to @CopperheadOS on Twitter with a middle finger emoji. He was able to DM them because they stole the account from the open source project and they hadn't unfollowed him [Archive](https://archive.is/k6Xxg)
+- STATEMENT OF DEFENCE AND COUNTERCLAIM against Copperhead in their bogus lawsuit aimed at intimidating GrapheneOS and draining our time, energy and money. We're also filing a federal lawsuit against Copperhead over their fraudulent copyright claims and may take further action [PDF](https://grapheneos.org/legal/Micay_%20Copperhead_%20Statement%20of%20Defendant%20and%20Counterclaim.pdf)
+- Archive of Copperhead's early threats, ultimatums and false claims against the open source project. They threatened @yegortimoshenko for archiving it and attempted to get it taken down with a bogus DMCA. Be aware it's full of false claims. Compare the false narratives back then to their claims now [Github](https://github.com/yegortimoshenko/copperhead-takeover/)
+- Help spreading CopperheadOS scam [Twitter](https://twitter.com/DanielMicay/status/1364147012292259841)
+- History of GrapheneOS [Website](https://grapheneos.org/#history)
  
 
 
