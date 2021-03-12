@@ -26,6 +26,7 @@ A collection of differently important stuff about mobile phones
  - Architectural decomposition and isolation of the Media Frameworks over time [Image](https://1.bp.blogspot.com/-C2DwwKC4hRk/YBMwj0PQgZI/AAAAAAAADhc/za7j8K7zgTs6SbCK6dox8AjWidxRwPbOwCNcBGAsYHQ/s1122/Image%2B%2523%2B2.png)
  - Data Driven Security Hardening in Android [Blog](https://security.googleblog.com/2021/01/data-driven-security-hardening-in.html)
  - Securing Android from any unauthorized individual or criminal [Video](https://www.youtube.com/watch?v=WvIItxY-BKs&list=PLsoPy7S6vUtF48sOnu40WXUUzL0O9LNsf)
+ - Continuing to Raise the Bar for Verifiable Security on Pixel [Blog](https://security.googleblog.com/2021/03/continuing-to-raise-bar-for-verifiable.html)
  
 
 ## iOS (Apple) 
