@@ -29,6 +29,7 @@ A collection of differently important stuff about mobile phones
  - Securing Android from any unauthorized individual or criminal [Video](https://www.youtube.com/watch?v=WvIItxY-BKs&list=PLsoPy7S6vUtF48sOnu40WXUUzL0O9LNsf)
  - Continuing to Raise the Bar for Verifiable Security on Pixel [Blog](https://security.googleblog.com/2021/03/continuing-to-raise-bar-for-verifiable.html)
  - Why does the F-Droid website nearly always host an outdated F-Droid apk? [Forum](https://forum.f-droid.org/t/why-does-the-f-droid-website-nearly-always-host-an-outdated-f-droid-apk/6234/1)
+ - CVE-2017-5947: OnePlus EDL triggering through ADB or Hardware Key Combination [Blog](https://alephsecurity.com/vulns/aleph-2017007)
  
 
 ## iOS (Apple) 
