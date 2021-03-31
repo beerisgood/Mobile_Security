@@ -4,7 +4,8 @@ A collection of differently important stuff about mobile phones
 
 ### Android (Google) + GrapheneOS
 
- - Android website [Blog](https://www.android.com/)
+ - Secure an Android Device [Blog](https://source.android.com/security)
+ - Android Security Features [Blog](https://source.android.com/security/features)
  - Madaidan's Insecurities - Android [Blog](https://madaidans-insecurities.github.io/android.html)
  - Madaidan's Insecurities - Mobile Security and Privacy Advice [Blog](https://madaidans-insecurities.github.io/security-privacy-advice.html#mobile-os)
  - GrapheneOS: a OpenSource privacy and security focused mobile OS with Android app compatibility [Blog](https://grapheneos.org/)
