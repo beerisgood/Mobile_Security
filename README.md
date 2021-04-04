@@ -63,6 +63,7 @@ A collection of differently important stuff about mobile phones
  - Should I get an iPhone if I value privacy? [Reddit](https://www.reddit.com/r/privacy/comments/iox6rq/should_i_get_an_iphone_if_i_value_privacy/)
  - iOS advantages [Reddit](https://www.reddit.com/r/privacy/comments/ionbk0/new_phone_creeping_me_out/g4gmwze/)
  - iOS use an [improved implementation of ARM's Pointer Authentication Codes](https://developer.apple.com/documentation/security/preparing_your_app_to_work_with_pointer_authentication) (PAC), ensuring backward and forward-edge protection
+ - Complete W^X implementation in iOS via [code signing](https://manuals.info.apple.com/MANUALS/1000/MA1902/en_US/apple-platform-security-guide.pdf#page=96)
 
 
 ## Custom ROMs (like LineageOS)
