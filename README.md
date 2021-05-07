@@ -72,6 +72,7 @@ A collection of differently important stuff about mobile phones
  - LineageOS problems with firmware updates & user-debug builds [Reddit](https://www.reddit.com/r/privacy/comments/i80u4b/theymozilla_killed_entire_threat_management_team/g16einx/)
  - Why can't LineageOS address its security issues? [Reddit](https://www.reddit.com/r/LineageOS/comments/lnjepw/why_cant_lineageos_address_its_security_issues/)
  - read what's wrong with /e/ aka eelo [Blog](https://ewwlo.void.partidopirata.com.ar/)
+ - avoid toxic CalyxOS [Reddit](https://www.reddit.com/r/privacy/comments/n2jf72/state_of_affairs_in_mobile_market/gwpcgkk?utm_source=share&utm_medium=web2x&context=3)
  
 
 ## CopperheadOS (**Warning! Scam**)
