@@ -1,6 +1,7 @@
-# Smartphone_Security
+# A collection of differently important stuff about mobile phones
 
-A collection of differently important stuff about mobile phones
+![GitHub last commit](https://img.shields.io/github/last-commit/beerisgood/Smartphone_Security?color=green&label=last%20update%3A)
+
 
 ### Android (Google) + GrapheneOS
 
