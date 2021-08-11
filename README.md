@@ -31,6 +31,7 @@
  - Continuing to Raise the Bar for Verifiable Security on Pixel [Blog](https://security.googleblog.com/2021/03/continuing-to-raise-bar-for-verifiable.html)
  - Why does the F-Droid website nearly always host an outdated F-Droid apk? [Forum](https://forum.f-droid.org/t/why-does-the-f-droid-website-nearly-always-host-an-outdated-f-droid-apk/6234/1)
  - CVE-2017-5947: OnePlus EDL triggering through ADB or Hardware Key Combination [Blog](https://alephsecurity.com/vulns/aleph-2017007)
+ - CIS [Security Benchmark](https://www.cisecurity.org/benchmark/google_android/)
  
 
 ## iOS (Apple) 
@@ -65,6 +66,7 @@
  - iOS use an [improved implementation of ARM's Pointer Authentication Codes](https://developer.apple.com/documentation/security/preparing_your_app_to_work_with_pointer_authentication) (PAC), ensuring backward and forward-edge protection
  - Complete W^X implementation in iOS via [code signing](https://manuals.info.apple.com/MANUALS/1000/MA1902/en_US/apple-platform-security-guide.pdf#page=96)
  - how sideloading and third-party app stores would undermine iPhone security [PDF](https://www.apple.com/privacy/docs/Building_a_Trusted_Ecosystem_for_Millions_of_Apps.pdf)
+ - CIS [Security Benchmark](https://www.cisecurity.org/benchmark/apple_ios/)
 
 
 ## Custom ROMs (like LineageOS)
