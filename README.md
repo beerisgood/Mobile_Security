@@ -1,9 +1,7 @@
-# A collection of differently important stuff about mobile phones
-
 ![GitHub last commit](https://img.shields.io/github/last-commit/beerisgood/Smartphone_Security?color=green&label=last%20update%3A)
 
 
-### Android (Google) + GrapheneOS
+### Android (Stock Google) + GrapheneOS
 
  - Secure an Android Device [Blog](https://source.android.com/security)
  - Android Security Features [Blog](https://source.android.com/security/features)
@@ -99,7 +97,6 @@
 - Help spreading CopperheadOS scam [Twitter](https://twitter.com/DanielMicay/status/1364147012292259841)
 - History of GrapheneOS [Website](https://grapheneos.org/#history)
  
-
 
 ## Linux Phones (like Purism)
 
