@@ -67,7 +67,7 @@
  - how sideloading and third-party app stores would undermine iPhone security [PDF](https://www.apple.com/privacy/docs/Building_a_Trusted_Ecosystem_for_Millions_of_Apps.pdf)
  - CIS [Security Benchmark](https://www.cisecurity.org/benchmark/apple_ios/)
  - NIST Security Technical Implementation [Guide](https://ncp.nist.gov/checklist/967)
- - A Look at iMessage in iOS 14 [Blog](https://googleprojectzero.blogspot.com/2021/01/a-look-at-imessage-in-ios-14.html)
+ - A Look at iMessage in iOS 14 [Blog](https://googleprojectzero.blogspot.com/2021/01/a-look-at-imessage-in-ios-14.html) (Keywords: Blastdoor, Re-randomization of the Dyld Shared Cache Region)
 
 
 ## Custom ROMs (like LineageOS)
