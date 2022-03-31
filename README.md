@@ -68,6 +68,7 @@
  - CIS [Security Benchmark](https://www.cisecurity.org/benchmark/apple_ios/)
  - NIST Security Technical Implementation [Guide](https://ncp.nist.gov/checklist/967)
  - A Look at iMessage in iOS 14 [Blog](https://googleprojectzero.blogspot.com/2021/01/a-look-at-imessage-in-ios-14.html) (Keywords: Blastdoor, Re-randomization of the Dyld Shared Cache Region)
+ - [JITSploitation](https://googleprojectzero.blogspot.com/2020/09/jitsploitation-one.html) I: A JIT Bug
 
 
 ## Custom ROMs (like LineageOS)
