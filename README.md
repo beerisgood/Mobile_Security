@@ -31,6 +31,7 @@
  - CVE-2017-5947: OnePlus EDL triggering through ADB or Hardware Key Combination [Blog](https://alephsecurity.com/vulns/aleph-2017007)
  - CIS [Security Benchmark](https://www.cisecurity.org/benchmark/google_android/)
  - NIST Security Technical Implementation [Guide](https://ncp.nist.gov/checklist/968)
+ - F-Droid [InSecurity](https://wonderfall.dev/fdroid-issues/)
  
 
 ## iOS (Apple) 
