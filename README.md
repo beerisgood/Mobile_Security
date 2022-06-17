@@ -71,6 +71,7 @@
  - A Look at iMessage in iOS 14 [Blog](https://googleprojectzero.blogspot.com/2021/01/a-look-at-imessage-in-ios-14.html) (Keywords: Blastdoor, Re-randomization of the Dyld Shared Cache Region)
  - JITSploitation [I: A JIT Bug](https://googleprojectzero.blogspot.com/2020/09/jitsploitation-one.html) | [II: Getting Read/Write](https://googleprojectzero.blogspot.com/2020/09/jitsploitation-two.html) | [III: Subverting Control Flow](https://googleprojectzero.blogspot.com/2020/09/jitsploitation-three.html)
  - Page Protection Layer ([PPL](https://support.apple.com/en-us/guide/security/operating-system-integrity-sec8b776536b/1/web/1#sec314c3af61))
+ - iOS 16: [restricted Userclients](https://saaramar.github.io/ios16_restricted_iouserclients/)
 
 
 ## Custom ROMs (like LineageOS)
