@@ -73,6 +73,7 @@
  - Page Protection Layer ([PPL](https://support.apple.com/en-us/guide/security/operating-system-integrity-sec8b776536b/1/web/1#sec314c3af61))
  - iOS 16: [restricted Userclients](https://saaramar.github.io/ios16_restricted_iouserclients/)
  - [some resources](https://github.com/houjingyi233/macOS-iOS-system-security) about iOS/ MacOS system security
+ - Clone your finger - [bypassing TouchID](https://wojciechregula.blog/post/clone-you-finger-bypassing-touchid/)
 
 
 ## Custom ROMs (like LineageOS)
