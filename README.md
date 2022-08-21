@@ -75,6 +75,7 @@
  - [some resources](https://github.com/houjingyi233/macOS-iOS-system-security) about iOS/ MacOS system security
  - Clone your finger - [bypassing TouchID](https://wojciechregula.blog/post/clone-you-finger-bypassing-touchid/)
  - VPNs on iOS are a [scam](https://www.michaelhorowitz.com/VPNs.on.iOS.are.scam.php)
+ - InAppBrowser.com - see what JavaScript commands get [injected](https://krausefx.com/blog/announcing-inappbrowsercom-see-what-javascript-commands-get-executed-in-an-in-app-browser) through an in-app browser
 
 
 ## Custom ROMs (like LineageOS)
