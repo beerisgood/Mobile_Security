@@ -34,6 +34,7 @@
  - F-Droid [InSecurity](https://wonderfall.dev/fdroid-issues/)
  - How private are [Android keyboards](https://www.scss.tcd.ie/Doug.Leith/pubs/gboard_kamil.pdf)?
  - Waydroid or GrapheneOS? [Reddit](https://old.reddit.com/r/PrivacyGuides/comments/x32zj0/waydroid_or_grapheneos/)
+ - [broken](https://privsec.dev/posts/android/android-vpn-leakage-with-secondary-user-profiles/) [*VPN*](https://mullvad.net/en/blog/2022/10/10/android-leaks-connectivity-check-traffic/)
  
 
 ## iOS (Apple) 
