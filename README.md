@@ -79,6 +79,7 @@
  - Clone your finger - [bypassing TouchID](https://wojciechregula.blog/post/clone-you-finger-bypassing-touchid/)
  - VPNs on iOS are a [scam](https://www.michaelhorowitz.com/VPNs.on.iOS.are.scam.php) and somehow [broken](https://twitter.com/mysk_co/status/1579997801047822336)
  - InAppBrowser.com - see what JavaScript commands get [injected](https://krausefx.com/blog/announcing-inappbrowsercom-see-what-javascript-commands-get-executed-in-an-in-app-browser) through an in-app browser
+ - iOS hardened allocator, called [kalloc_type](https://security.apple.com/blog/towards-the-next-generation-of-xnu-memory-safety/)
 
 
 ## Custom ROMs (like LineageOS)
