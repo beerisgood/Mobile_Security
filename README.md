@@ -36,6 +36,7 @@
  - Waydroid or GrapheneOS? [Reddit](https://old.reddit.com/r/PrivacyGuides/comments/x32zj0/waydroid_or_grapheneos/)
  - [broken](https://privsec.dev/posts/android/android-vpn-leakage-with-secondary-user-profiles/) [*VPN*](https://mullvad.net/en/blog/2022/10/10/android-leaks-connectivity-check-traffic/)
  - Malware on the Google Play store [leads](https://www.malwarebytes.com/blog/news/2022/11/malware-on-the-google-play-store-leads-to-harmful-phishing-sites) to harmful phishing sites
+ - Attacking the Android kernel [using](https://tamirzb.com/attacking-android-kernel-using-qualcomm-trustzone) the Qualcomm TrustZone
 
 ## iOS (Apple) 
 
