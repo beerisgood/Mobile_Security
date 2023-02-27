@@ -82,6 +82,7 @@
  - InAppBrowser.com - see what JavaScript commands get [injected](https://krausefx.com/blog/announcing-inappbrowsercom-see-what-javascript-commands-get-executed-in-an-in-app-browser) through an in-app browser
  - iOS hardened allocator, called [kalloc_type](https://security.apple.com/blog/towards-the-next-generation-of-xnu-memory-safety/)
  - [why](https://twitter.com/bytebytego/status/1583331309094510593?s=20) ApplePay is more secure and private than GooglePay
+ - (A15 chip and above) Safari hardware security mitigation called [JITBox](https://www.youtube.com/watch?v=8mQAYeozl5I&t=635s)
 
 
 ## Custom ROMs (like LineageOS)
