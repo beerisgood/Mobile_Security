@@ -11,6 +11,7 @@
  - GrapheneOS community [Wiki](https://hub.libranet.de/wiki/graphene-os/wiki/Home)
  - Insider Attack Resistance [Blog](https://android-developers.googleblog.com/2018/05/insider-attack-resistance.html)
  - Google can't decrypt your locked phone with your Google Password [Blog](https://support.google.com/android/answer/7663172?hl=en&visit_id=637368692303073503-4208188940&rd=1)
+ - list of dependencies and apps that [may have known vulnerabilities](https://divestos.org/misc/appsec.txt0
  - Android Privacy and Security [Wiki](https://hub.libranet.de/wiki/and-priv-sec/wiki/Home)
  - Important Android Security mitigation's [Reddit](https://www.reddit.com/r/privacy/comments/i80u4b/theymozilla_killed_entire_threat_management_team/g167sag/)
  - How Android Encryption works [Reddit](https://www.reddit.com/r/GrapheneOS/comments/fuiam1/file_based_encryption_changing_lockscreen_password/fme6rt9/)
@@ -85,15 +86,16 @@
  - (A15 chip and above) Safari hardware security mitigation called [JITBox](https://www.youtube.com/watch?v=8mQAYeozl5I&t=635s)
 
 
-## Custom ROMs (like LineageOS)
+## Custom ROMs (like LineageOS, etc)
 
  - Madaidan's Insecurities - Custom ROMs [Blog](https://madaidans-insecurities.github.io/android.html#custom-roms)
  - Is LineageOS secure? [Reddit](https://www.reddit.com/r/privacy/comments/ib3srt/is_lineage_os_secure/)
  - LineageOS problems with firmware updates & user-debug builds [Reddit](https://www.reddit.com/r/privacy/comments/i80u4b/theymozilla_killed_entire_threat_management_team/g16einx/)
  - Why can't LineageOS address its security issues? [Reddit](https://www.reddit.com/r/LineageOS/comments/lnjepw/why_cant_lineageos_address_its_security_issues/)
- - read what's wrong with /e/ aka eelo [Blog](https://ewwlo.void.partidopirata.com.ar/)
+ - read what's [wrong](https://divestos.org/misc/e.txt) with /e/ aka eelo [Blog](https://ewwlo.void.partidopirata.com.ar/)
  - avoid toxic CalyxOS [Reddit](https://www.reddit.com/r/privacy/comments/n2jf72/state_of_affairs_in_mobile_market/gwpcgkk?utm_source=share&utm_medium=web2x&context=3)
  - ClearOS (Freedom Phone) is [not great](https://mjg59.dreamwidth.org/59479.html)
+ - Problems with [iodéOS](https://divestos.org/misc/i.txt)
  
 
 ## CopperheadOS (**Warning! Scam**)
