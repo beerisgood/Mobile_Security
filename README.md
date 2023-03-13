@@ -11,7 +11,7 @@
  - GrapheneOS community [Wiki](https://hub.libranet.de/wiki/graphene-os/wiki/Home)
  - Insider Attack Resistance [Blog](https://android-developers.googleblog.com/2018/05/insider-attack-resistance.html)
  - Google can't decrypt your locked phone with your Google Password [Blog](https://support.google.com/android/answer/7663172?hl=en&visit_id=637368692303073503-4208188940&rd=1)
- - list of dependencies and apps that [may have known vulnerabilities](https://divestos.org/misc/appsec.txt0
+ - list of dependencies and apps that [may have known vulnerabilities](https://divestos.org/misc/appsec.txt0)
  - Android Privacy and Security [Wiki](https://hub.libranet.de/wiki/and-priv-sec/wiki/Home)
  - Important Android Security mitigation's [Reddit](https://www.reddit.com/r/privacy/comments/i80u4b/theymozilla_killed_entire_threat_management_team/g167sag/)
  - How Android Encryption works [Reddit](https://www.reddit.com/r/GrapheneOS/comments/fuiam1/file_based_encryption_changing_lockscreen_password/fme6rt9/)
