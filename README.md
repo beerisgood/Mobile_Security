@@ -64,7 +64,7 @@
  - Cellebrite and case scenarios [Reddit](https://www.reddit.com/r/privacytoolsIO/comments/hwb528/cellebrite_and_case_scenarios_with_samsung_vs/fyyk1zx/)
  - Apple's new security program [Reddit](https://www.reddit.com/r/privacytoolsIO/comments/hw1m6m/apples_new_security_program_puts_special_iphone/fyx3e8a/)
  - Chances of backdoors in Apple operating systems [Reddit](https://www.reddit.com/r/privacytoolsIO/comments/hvb9wf/chances_of_backdoors_in_apple_operating_systems/)
- - iCloud Drive data encrypted at rest on server? [Reddit](https://www.reddit.com/r/privacy/comments/im7we1/icloud_drive_data_encrypted_at_rest_on_server/g3yc7p6/)
+ - iCloud (Drive) data [encryption](https://support.apple.com/HT202303)
  - Privacy Review - See the trackers hidden in your apps [Blog](https://privacyreview.co/)
  - Should I get an iPhone if I value privacy? [Reddit](https://www.reddit.com/r/privacy/comments/iox6rq/should_i_get_an_iphone_if_i_value_privacy/)
  - iOS advantages [Reddit](https://www.reddit.com/r/privacy/comments/ionbk0/new_phone_creeping_me_out/g4gmwze/)
