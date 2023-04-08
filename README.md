@@ -85,6 +85,7 @@
  - [why](https://twitter.com/bytebytego/status/1583331309094510593?s=20) ApplePay is more secure and private than GooglePay
  - (A15 chip and above) Safari hardware security mitigation called [JITBox](https://www.youtube.com/watch?v=8mQAYeozl5I&t=635s)
  - Location Services Privacy [Overview](https://www.apple.com/privacy/docs/Location_Services_White_Paper_Nov_2019.pdf)
+ - [Lockdown](https://support.apple.com/en-us/HT212650) Mode
 
 
 ## Custom ROMs (like LineageOS, etc)
