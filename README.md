@@ -84,6 +84,7 @@
  - iOS hardened allocator, called [kalloc_type](https://security.apple.com/blog/towards-the-next-generation-of-xnu-memory-safety/)
  - [why](https://twitter.com/bytebytego/status/1583331309094510593?s=20) ApplePay is more secure and private than GooglePay
  - (A15 chip and above) Safari hardware security mitigation called [JITBox](https://www.youtube.com/watch?v=8mQAYeozl5I&t=635s)
+ - Location Services Privacy [Overview](https://www.apple.com/privacy/docs/Location_Services_White_Paper_Nov_2019.pdf)
 
 
 ## Custom ROMs (like LineageOS, etc)
