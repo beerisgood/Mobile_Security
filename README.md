@@ -86,6 +86,7 @@
  - (A15 chip and above) Safari hardware security mitigation called [JITBox](https://www.youtube.com/watch?v=8mQAYeozl5I&t=635s)
  - Location Services Privacy [Overview](https://www.apple.com/privacy/docs/Location_Services_White_Paper_Nov_2019.pdf)
  - [Lockdown](https://support.apple.com/en-us/HT212650) Mode - also a thread about [what happens](https://infosec.exchange/@eingfoan/110048946958208752#)
+ - When does an old iPhone [become](https://www.intego.com/mac-security-blog/when-does-an-old-iphone-become-unsafe-to-use/) unsafe to use?
 
 
 ## Custom ROMs (like LineageOS, etc)
