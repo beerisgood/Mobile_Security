@@ -89,6 +89,7 @@
  - When does an old iPhone [become](https://www.intego.com/mac-security-blog/when-does-an-old-iphone-become-unsafe-to-use/) unsafe to use?
  - What [if](https://security.apple.com/blog/what-if-we-had-sockpuppet-in-ios16/) we had the SockPuppet vulnerability in iOS 16?
  - Apple [Health Privacy Overview](https://www.apple.com/ios/health/pdf/Health_Privacy_White_Paper_May_2023.pdf) - how the Health app and HealthKit protect your privacy
+ - [App](https://support.apple.com/HT212025) Tracking Transparency
 
 
 ## Custom ROMs (like LineageOS, etc)
