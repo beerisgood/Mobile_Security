@@ -50,7 +50,7 @@
  - (2019) Evolution of iOS mitigations [PDF](https://github.com/ssd-secure-disclosure/typhooncon2019/blob/master/Siguza%20-%20Mitigations.pdf)
  - (2019) Examining Pointer Authentication on the iPhone XS [Blog](https://googleprojectzero.blogspot.com/2019/02/examining-pointer-authentication-on.html)
  - (2019) APRR [GitHub](https://siguza.github.io/APRR/)
- - (2020) sandbox profiles in iOS 14 [Twitter/GitHub](https://twitter.com/_argp/status/1276800140263559168)
+ - (2020) [sandbox profiles](https://archive.is/FVLMH) in iOS 14
  - (2020) The core of Apple is PPL: Breaking the XNU kernel's kernel [Blog](https://googleprojectzero.blogspot.com/2020/07/the-core-of-apple-is-ppl-breaking-xnu.html)
  - (2020) PAN [GitHub](https://siguza.github.io/PAN/)
  - (2020) "Psychic Paper" [GitHub](https://siguza.github.io/psychicpaper/)
@@ -79,10 +79,10 @@
  - iOS 16: [restricted Userclients](https://saaramar.github.io/ios16_restricted_iouserclients/)
  - [some resources](https://github.com/houjingyi233/macOS-iOS-system-security) about iOS/ MacOS system security
  - Clone your finger - [bypassing TouchID](https://wojciechregula.blog/post/clone-you-finger-bypassing-touchid/)
- - VPNs on iOS are a [scam](https://www.michaelhorowitz.com/VPNs.on.iOS.are.scam.php) and somehow [broken](https://twitter.com/mysk_co/status/1579997801047822336)
+ - VPNs on iOS are a [scam](https://www.michaelhorowitz.com/VPNs.on.iOS.are.scam.php) and somehow [broken](https://archive.is/CaFL2)
  - InAppBrowser.com - see what JavaScript commands get [injected](https://krausefx.com/blog/announcing-inappbrowsercom-see-what-javascript-commands-get-executed-in-an-in-app-browser) through an in-app browser
  - iOS hardened allocator, called [kalloc_type](https://security.apple.com/blog/towards-the-next-generation-of-xnu-memory-safety/)
- - [why](https://twitter.com/bytebytego/status/1583331309094510593?s=20) ApplePay is more secure and private than GooglePay
+ - [why](https://web.archive.org/web/20230713190731/https://twitter.com/bytebytego/status/1583331309094510593) ApplePay is more secure and private than GooglePay
  - (A15 chip and above) Safari hardware security mitigation called [JITBox](https://www.youtube.com/watch?v=8mQAYeozl5I&t=635s)
  - Location Services Privacy [Overview](https://www.apple.com/privacy/docs/Location_Services_White_Paper_Nov_2019.pdf)
  - [Lockdown](https://support.apple.com/en-us/HT212650) Mode - also a thread about [what happens](https://infosec.exchange/@eingfoan/110048946958208752#)
@@ -106,19 +106,19 @@
 
 ## CopperheadOS (**Warning! Scam**)
 
-- Info about CopperheadOS [Twitter](https://twitter.com/DanielMicay/status/1171170734380654597)
+- Info about CopperheadOS [Twitter](https://archive.is/rRrVI)
 - CopperheadOS Bogus Legal Threat [Blog](https://renlord.com/posts/2020-03-25-copperheados-legal-threat/)
 - Just a reminder that GrapheneOS is being sued by a company that has been harassing Graphene devs [Reddit](https://www.reddit.com/r/privacy/comments/klbjhu/just_a_reminder_that_grapheneos_is_being_sued_by/)
-- Unbelievable: Copperhead registered the grapheneos.ca and grapheneos.net domains and redirected them to their site [Twitter](https://twitter.com/DanielMicay/status/1344166710534959105)
-- ongoing attacks on GrapheneOS [Reddit](https://twitter.com/DanielMicay/status/1171170734380654597)
+- Unbelievable: Copperhead registered the grapheneos.ca and grapheneos.net domains and redirected them to their site [Twitter](https://archive.is/VFN1u)
+- ongoing attacks on GrapheneOS [Reddit](https://archive.is/rRrVI)
 - Log of someone who spent hours raiding the GrapheneOS chat channels with many accounts spamming Copperhead talking points and disrupting discussion admitting to being paid 10 EUR / hour by Copperhead. They quickly try making up an excuse but it's clearly not true. [Log](https://freenode.logbot.info/grapheneos/20201218#c6209318)
 - Log from near end of 12 hours of Copperhead spamming / concern trolling in our chat channels yesterday. They join with a new account matching a session of a couple previous ones use to spam, falsely claim to have found a vulnerability, dig themselves in a hole and openly troll via private messages [Log](https://freenode.logbot.info/grapheneos/20210223#c7016769)
-- Copperhead CEO has admitted to their new OS tracking devices including via device identifiers in the update system which are stored in databases mapping device identifiers to customers by their official phone sellers. It's a backdoor enabling targeting devices/users with specially crafted updates [Twitter](https://twitter.com/DanielMicay/status/1363413154131283969)
+- Copperhead CEO has admitted to their new OS tracking devices including via device identifiers in the update system which are stored in databases mapping device identifiers to customers by their official phone sellers. It's a backdoor enabling targeting devices/users with specially crafted updates [Twitter](https://archive.is/uULWl)
 - Proof of Copperhead threatening a PhD student for working on GrapheneOS with bogus legal claims. It also shows how they tried to get him in trouble with his university by framing it as him using their resources (which he didn't do) for copyright infringement (which didn't happen, it is open source) [Reddit](https://www.reddit.com/r/GrapheneOS/comments/lppfbm/proof_of_copperhead_threatening_a_phd_student_for/)
 - Archive of Copperhead CEO trying to get Ian Carroll (well known security researcher) fired for sending a single Direct Message to @CopperheadOS on Twitter with a middle finger emoji. He was able to DM them because they stole the account from the open source project and they hadn't unfollowed him [Archive](https://archive.is/k6Xxg)
 - STATEMENT OF DEFENCE AND COUNTERCLAIM against Copperhead in their bogus lawsuit aimed at intimidating GrapheneOS and draining our time, energy and money. We're also filing a federal lawsuit against Copperhead over their fraudulent copyright claims and may take further action [PDF](https://grapheneos.org/legal/Micay_%20Copperhead_%20Statement%20of%20Defendant%20and%20Counterclaim.pdf)
 - Archive of Copperhead's early threats, ultimatums and false claims against the open source project. They threatened @yegortimoshenko for archiving it and attempted to get it taken down with a bogus DMCA. Be aware it's full of false claims. Compare the false narratives back then to their claims now [Github](https://github.com/yegortimoshenko/copperhead-takeover/)
-- Help spreading CopperheadOS scam [Twitter](https://twitter.com/DanielMicay/status/1364147012292259841)
+- Help spreading CopperheadOS scam [Twitter](https://archive.is/vPNem)
 - History of GrapheneOS [Website](https://grapheneos.org/#history)
  
 
