@@ -89,6 +89,7 @@
  - What [if](https://security.apple.com/blog/what-if-we-had-sockpuppet-in-ios16/) we had the SockPuppet vulnerability in iOS 16?
  - Apple [Health Privacy Overview](https://www.apple.com/ios/health/pdf/Health_Privacy_White_Paper_May_2023.pdf) - how the Health app and HealthKit protect your privacy
  - [App](https://support.apple.com/HT212025) Tracking Transparency
+ - (iOS 17 and above) [Link Tracking Protection](https://www.apple.com/newsroom/2023/06/apple-announces-powerful-new-privacy-and-security-features/) in Messages, Mail, and Safari Private Browsing
 
 
 ## Custom ROMs (like LineageOS, etc)
