@@ -91,6 +91,7 @@
  - [App](https://support.apple.com/HT212025) Tracking Transparency
  - (iOS [17.0](https://www.apple.com/ios/ios-17/pdf/iOS_All_New_Features.pdf)) features: Link Tracking Protection in Messages, Mail, and Safari; Communication Safety & Sensitive Content Warning; Photos privacy prompt improvements; Add-only Calendar permission; App privacy improvements; more secure Lockdown Mode; Privacy changes with [Safari 17](https://cunderwood.dev/2023/06/09/privacy-changes-coming-to-safari-17/)
  - An [analysis](https://googleprojectzero.blogspot.com/2023/10/an-analysis-of-an-in-the-wild-ios-safari-sandbox-escape.html) of an in-the-wild iOS Safari WebContent to GPU Process exploit
+ - Advancing iMessage security: iMessage Contact Key [Verification](https://security.apple.com/blog/imessage-contact-key-verification)
 
 
 ## Custom ROMs (like LineageOS, etc)
