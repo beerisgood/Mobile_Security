@@ -53,7 +53,7 @@
  - (2020) The core of Apple is PPL: Breaking the XNU kernel's kernel [Blog](https://googleprojectzero.blogspot.com/2020/07/the-core-of-apple-is-ppl-breaking-xnu.html)
  - (2020) PAN [GitHub](https://siguza.github.io/PAN/)
  - (2020) "Psychic Paper" [GitHub](https://siguza.github.io/psychicpaper/)
-  - (2020) Behind the scenes of iOS and Mac Security [YouTube](https://www.youtube.com/watch?v=3byNNUReyvE)
+ - (2020) Behind the scenes of iOS and Mac Security [YouTube](https://www.youtube.com/watch?v=3byNNUReyvE)
  - Billy Ellis [YouTube Channel](https://www.youtube.com/c/BillyEllis/)
  - ARM assembly basics [Blog](https://azeria-labs.com/writing-arm-assembly-part-1/)
  - Why are iPhones considered better for privacy/security? [Reddit](https://archive.ph/zgZBG)
@@ -92,6 +92,8 @@
  - (iOS [17.0](https://www.apple.com/ios/ios-17/pdf/iOS_All_New_Features.pdf)) features: Link Tracking Protection in Messages, Mail, and Safari; Communication Safety & Sensitive Content Warning; Photos privacy prompt improvements; Add-only Calendar permission; App privacy improvements; more secure Lockdown Mode; Privacy changes with [Safari 17](https://cunderwood.dev/2023/06/09/privacy-changes-coming-to-safari-17/)
  - An [analysis](https://googleprojectzero.blogspot.com/2023/10/an-analysis-of-an-in-the-wild-ios-safari-sandbox-escape.html) of an in-the-wild iOS Safari WebContent to GPU Process exploit
  - Advancing iMessage security: iMessage Contact Key [Verification](https://security.apple.com/blog/imessage-contact-key-verification)
+ - [Operation Triangulation](https://media.ccc.de/v/37c3-11859-operation_triangulation_what_you_get_when_attack_iphones_of_researchers): What You Get When Attack iPhones of Researchers
+
 
 
 ## Custom ROMs (like LineageOS, etc)
