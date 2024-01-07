@@ -1,4 +1,4 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/beerisgood/Smartphone_Security?label=last%20update%3A&style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/beerisgood/Mobile_Security?label=last%20update%3A&style=flat-square)
 
 
 ### Android (Stock Google) + GrapheneOS
