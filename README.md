@@ -94,6 +94,7 @@
  - Advancing iMessage security: iMessage Contact Key [Verification](https://security.apple.com/blog/imessage-contact-key-verification)
  - [Operation Triangulation](https://media.ccc.de/v/37c3-11859-operation_triangulation_what_you_get_when_attack_iphones_of_researchers): What You Get When Attack iPhones of Researchers
  - Apple's iPhone 15 [Under the C](https://media.ccc.de/v/37c3-12074-apple_s_iphone_15_under_the_c): Hardware hacking tooling for the new iPhone generation
+ - Bifröst: Apple's [Rainbow Bridge](https://media.ccc.de/v/37c3-11948-bifrost_apple_s_rainbow_bridge_for_satellite_communication) for Satellite Communication
 
 
 
