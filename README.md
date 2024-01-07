@@ -93,6 +93,7 @@
  - An [analysis](https://googleprojectzero.blogspot.com/2023/10/an-analysis-of-an-in-the-wild-ios-safari-sandbox-escape.html) of an in-the-wild iOS Safari WebContent to GPU Process exploit
  - Advancing iMessage security: iMessage Contact Key [Verification](https://security.apple.com/blog/imessage-contact-key-verification)
  - [Operation Triangulation](https://media.ccc.de/v/37c3-11859-operation_triangulation_what_you_get_when_attack_iphones_of_researchers): What You Get When Attack iPhones of Researchers
+ - Apple's iPhone 15 [Under the C](https://media.ccc.de/v/37c3-12074-apple_s_iphone_15_under_the_c): Hardware hacking tooling for the new iPhone generation
 
 
 
