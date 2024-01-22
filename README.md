@@ -74,7 +74,7 @@
  - NIST Security Technical Implementation [Guide](https://ncp.nist.gov/checklist/967)
  - A Look at iMessage in iOS 14 [Blog](https://googleprojectzero.blogspot.com/2021/01/a-look-at-imessage-in-ios-14.html) (Keywords: Blastdoor, Re-randomization of the Dyld Shared Cache Region)
  - JITSploitation [I: A JIT Bug](https://googleprojectzero.blogspot.com/2020/09/jitsploitation-one.html) | [II: Getting Read/Write](https://googleprojectzero.blogspot.com/2020/09/jitsploitation-two.html) | [III: Subverting Control Flow](https://googleprojectzero.blogspot.com/2020/09/jitsploitation-three.html)
- - Page Protection Layer ([PPL](https://support.apple.com/en-us/guide/security/operating-system-integrity-sec8b776536b/1/web/1#sec314c3af61))
+ - Page Protection Layer ([PPL](https://support.apple.com/guide/security/operating-system-integrity-sec8b776536b/1/web/1#sec314c3af61))
  - iOS 16: [restricted Userclients](https://saaramar.github.io/ios16_restricted_iouserclients/)
  - [some resources](https://github.com/houjingyi233/macOS-iOS-system-security) about iOS/ MacOS system security
  - Clone your finger - [bypassing TouchID](https://wojciechregula.blog/post/clone-you-finger-bypassing-touchid/)
@@ -84,7 +84,7 @@
  - [why](https://web.archive.org/web/20230713190731/https://twitter.com/bytebytego/status/1583331309094510593) ApplePay is more secure and private than GooglePay
  - (A15 chip and above) Safari hardware security mitigation called [JITBox](https://www.youtube.com/watch?v=8mQAYeozl5I&t=635s)
  - Location Services Privacy [Overview](https://www.apple.com/privacy/docs/Location_Services_White_Paper_Nov_2019.pdf)
- - [Lockdown](https://support.apple.com/en-us/HT212650) Mode - a thread about [what happens](https://infosec.exchange/@eingfoan/110048946958208752#) (also available for Apple Watch with watchOS 10)
+ - [Lockdown](https://support.apple.com/HT212650) Mode - a thread about [what happens](https://infosec.exchange/@eingfoan/110048946958208752#) (also available for Apple Watch with watchOS 10)
  - When does an old iPhone [become](https://www.intego.com/mac-security-blog/when-does-an-old-iphone-become-unsafe-to-use/) unsafe to use?
  - What [if](https://security.apple.com/blog/what-if-we-had-sockpuppet-in-ios16/) we had the SockPuppet vulnerability in iOS 16?
  - Apple [Health Privacy Overview](https://www.apple.com/ios/health/pdf/Health_Privacy_White_Paper_May_2023.pdf) - how the Health app and HealthKit protect your privacy
@@ -95,6 +95,7 @@
  - [Operation Triangulation](https://media.ccc.de/v/37c3-11859-operation_triangulation_what_you_get_when_attack_iphones_of_researchers): What You Get When Attack iPhones of Researchers
  - Apple's iPhone 15 [Under the C](https://media.ccc.de/v/37c3-12074-apple_s_iphone_15_under_the_c): Hardware hacking tooling for the new iPhone generation
  - Bifröst: Apple's [Rainbow Bridge](https://media.ccc.de/v/37c3-11948-bifrost_apple_s_rainbow_bridge_for_satellite_communication) for Satellite Communication
+ - [Stolen Device Protection](https://support.apple.com/HT212510) for iPhones
 
 
 
