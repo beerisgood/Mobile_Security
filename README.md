@@ -97,6 +97,7 @@
  - Bifröst: Apple's [Rainbow Bridge](https://media.ccc.de/v/37c3-11948-bifrost_apple_s_rainbow_bridge_for_satellite_communication) for Satellite Communication
  - [Stolen Device Protection](https://support.apple.com/HT212510) for iPhones
  - how Apps [abuse](https://www.youtube.com/watch?v=4ZPTjGG9t7s) Push Notifications for Tracking
+ - App privacy [report](https://support.apple.com/102188)
 
 
 
