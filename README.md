@@ -37,6 +37,7 @@
  - [*broken VPN*](https://mullvad.net/en/blog/2022/10/10/android-leaks-connectivity-check-traffic/)
  - Malware on the Google Play store [leads](https://www.malwarebytes.com/blog/news/2022/11/malware-on-the-google-play-store-leads-to-harmful-phishing-sites) to harmful phishing sites
  - Attacking the Android kernel [using](https://tamirzb.com/attacking-android-kernel-using-qualcomm-trustzone) the Qualcomm TrustZone
+ - Why Eve and Mallory Still Love Android: Revisiting TLS [(In)Security in Android Applications](https://www.usenix.org/conference/usenixsecurity21/presentation/oltrogge)
 
 ## iOS (Apple) 
 
