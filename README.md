@@ -99,6 +99,8 @@
  - [Stolen Device Protection](https://support.apple.com/HT212510) for iPhones
  - how Apps [abuse](https://www.youtube.com/watch?v=4ZPTjGG9t7s) Push Notifications for Tracking
  - App privacy [report](https://support.apple.com/102188)
+ - (A17 Pro chip and above) [Apple Intelligence](https://www.apple.com/apple-intelligence/) & [Private Cloud Compute](https://security.apple.com/blog/private-cloud-compute/)
+ - (iOS [18](https://www.apple.com/newsroom/2024/06/apple-extends-its-privacy-leadership-with-new-updates-across-its-platforms/)) Locked and hidden apps, Contacts permission improvements, Accessory Setup Kit, [Rotate Wi-Fi Address](https://www.macrumors.com/2024/06/10/ios-18-rotate-wifi-address/)
 
 
 
