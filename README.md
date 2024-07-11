@@ -114,6 +114,7 @@
  - avoid toxic CalyxOS [Reddit](https://archive.ph/n2y4m)
  - ClearOS (Freedom Phone) is [not great](https://mjg59.dreamwidth.org/59479.html)
  - Problems with [iodéOS](https://divestos.org/misc/i.txt)
+ - [Positon](https://grapheneos.org/articles/positon-location-service#positon-location-service) location service
  
 
 ## CopperheadOS (**Warning! Scam**)
