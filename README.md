@@ -101,6 +101,7 @@
  - App privacy [report](https://support.apple.com/102188)
  - (A17 Pro chip and above) [Apple Intelligence](https://www.apple.com/apple-intelligence/) & [Private Cloud Compute](https://security.apple.com/blog/private-cloud-compute/)
  - (iOS [18](https://www.apple.com/newsroom/2024/06/apple-extends-its-privacy-leadership-with-new-updates-across-its-platforms/)) Locked and hidden apps, Contacts permission improvements, Accessory Setup Kit, [Rotate Wi-Fi Address](https://www.macrumors.com/2024/06/10/ios-18-rotate-wifi-address/)
+ - (iPhone 16 / A18 chip and above) [Secure Exclave](https://mastodon.social/@_inside/112552696723119626) like the M4 (and above) iPad Pro
 
 
 
