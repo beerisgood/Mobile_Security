@@ -103,6 +103,7 @@
  - (iOS [18](https://www.apple.com/newsroom/2024/06/apple-extends-its-privacy-leadership-with-new-updates-across-its-platforms/)) Locked and hidden apps, Contacts permission improvements, Accessory Setup Kit, [Rotate Wi-Fi Address](https://www.macrumors.com/2024/06/10/ios-18-rotate-wifi-address/)
  - (iPhone 16 / A18 chip and above) [Secure Exclave](https://mastodon.social/@_inside/112552696723119626) like the M4 (and above) iPad Pro
  - (iOS 18) [Inactivity Reboot](https://naehrdine.blogspot.com/2024/11/reverse-engineering-ios-18-inactivity.html)
+ - You can be an iOS hacker: Stack Pivots and JOP/ROPs [Youtube Video](https://www.youtube.com/watch?v=2f9KQIL5jFs)
 
 
 
