@@ -113,10 +113,9 @@
  - Is LineageOS secure? [Reddit](https://archive.ph/kNRHK)
  - LineageOS problems with firmware updates & user-debug builds [Reddit](https://archive.ph/ZtE8N)
  - Why can't LineageOS address its security issues? [Reddit](https://archive.ph/ocOk5)
- - read what's [wrong](https://divestos.org/misc/e.txt) with /e/ aka eelo [Blog](https://ewwlo.void.partidopirata.com.ar/)
+ - read what's wrong with /e/ aka eelo [Blog](https://ewwlo.void.partidopirata.com.ar/)
  - avoid toxic CalyxOS [Reddit](https://archive.ph/n2y4m)
  - ClearOS (Freedom Phone) is [not great](https://mjg59.dreamwidth.org/59479.html)
- - Problems with [iodéOS](https://divestos.org/misc/i.txt)
  - [Positon](https://grapheneos.org/articles/positon-location-service#positon-location-service) location service
  
 
