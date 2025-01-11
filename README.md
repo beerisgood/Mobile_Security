@@ -68,7 +68,7 @@
  - Privacy Review - See the trackers hidden in your apps [Blog](https://privacyreview.co/)
  - Should I get an iPhone if I value privacy? [Reddit](https://archive.ph/2NEUH)
  - iOS advantages [Reddit](https://archive.ph/2V8Ik)
- - iOS use an [improved implementation of ARM's Pointer Authentication Codes](https://developer.apple.com/documentation/security/preparing_your_app_to_work_with_pointer_authentication) (PAC), ensuring backward and forward-edge protection
+ - iOS use an [improved implementation of ARM's Pointer Authentication Codes](https://developer.apple.com/documentation/security/preparing-your-app-to-work-with-pointer-authentication) (PAC), ensuring backward and forward-edge protection
  - Complete W^X implementation in iOS via [code signing](https://manuals.info.apple.com/MANUALS/1000/MA1902/en_US/apple-platform-security-guide.pdf#page=96)
  - how sideloading and third-party app stores would undermine iPhone security [PDF](https://www.apple.com/privacy/docs/Building_a_Trusted_Ecosystem_for_Millions_of_Apps.pdf)
  - CIS [Security Benchmark](https://www.cisecurity.org/benchmark/apple_ios/)
