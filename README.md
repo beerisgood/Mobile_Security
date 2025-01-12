@@ -85,7 +85,7 @@
  - [why](https://web.archive.org/web/20230713190731/https://twitter.com/bytebytego/status/1583331309094510593) ApplePay is more secure and private than GooglePay
  - (A15 chip and above) Safari hardware security mitigation called [JITBox](https://www.youtube.com/watch?v=8mQAYeozl5I&t=635s)
  - Location Services Privacy [Overview](https://www.apple.com/privacy/docs/Location_Services_White_Paper_Nov_2019.pdf)
- - [Lockdown](https://support.apple.com/HT212650) Mode - a thread about [what happens](https://infosec.exchange/@eingfoan/110048946958208752#) (also available for Apple Watch with watchOS 10)
+ - [Lockdown](https://support.apple.com/HT212650) Mode - a thread about [what happens](https://infosec.exchange/@eingfoan/110048946958208752#) (also available for Apple Watch since watchOS 10)
  - When does an old iPhone [become](https://www.intego.com/mac-security-blog/when-does-an-old-iphone-become-unsafe-to-use/) unsafe to use?
  - What [if](https://security.apple.com/blog/what-if-we-had-sockpuppet-in-ios16/) we had the SockPuppet vulnerability in iOS 16?
  - Apple [Health Privacy Overview](https://www.apple.com/ios/health/pdf/Health_Privacy_White_Paper_May_2023.pdf) - how the Health app and HealthKit protect your privacy
