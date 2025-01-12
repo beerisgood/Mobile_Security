@@ -72,7 +72,7 @@
  - Complete W^X implementation in iOS via [ARM’s Execute Never (XN) feature](https://help.apple.com/pdf/security/en_US/apple-platform-security-guide.pdf) (page 136)
  - how sideloading and third-party app stores would undermine iPhone security [PDF](https://www.apple.com/privacy/docs/Building_a_Trusted_Ecosystem_for_Millions_of_Apps.pdf)
  - CIS [Security Benchmark](https://www.cisecurity.org/benchmark/apple_ios/)
- - NIST Security Technical Implementation [Guide](https://ncp.nist.gov/checklist/967)
+ - NIST Security Technical Implementation [Guide](https://ncp.nist.gov/repository?sortBy=modifiedDate%7Cdesc&keyword=iOS)
  - A Look at iMessage in iOS 14 [Blog](https://googleprojectzero.blogspot.com/2021/01/a-look-at-imessage-in-ios-14.html) (Keywords: Blastdoor, Re-randomization of the Dyld Shared Cache Region)
  - JITSploitation [I: A JIT Bug](https://googleprojectzero.blogspot.com/2020/09/jitsploitation-one.html) | [II: Getting Read/Write](https://googleprojectzero.blogspot.com/2020/09/jitsploitation-two.html) | [III: Subverting Control Flow](https://googleprojectzero.blogspot.com/2020/09/jitsploitation-three.html)
  - Page Protection Layer ([PPL](https://support.apple.com/guide/security/operating-system-integrity-sec8b776536b/1/web/1#sec314c3af61))
