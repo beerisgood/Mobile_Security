@@ -76,7 +76,7 @@
  - A Look at iMessage in iOS 14 [Blog](https://googleprojectzero.blogspot.com/2021/01/a-look-at-imessage-in-ios-14.html) (Keywords: Blastdoor, Re-randomization of the Dyld Shared Cache Region)
  - JITSploitation [I: A JIT Bug](https://googleprojectzero.blogspot.com/2020/09/jitsploitation-one.html) | [II: Getting Read/Write](https://googleprojectzero.blogspot.com/2020/09/jitsploitation-two.html) | [III: Subverting Control Flow](https://googleprojectzero.blogspot.com/2020/09/jitsploitation-three.html)
  - Page Protection Layer ([PPL](https://support.apple.com/guide/security/operating-system-integrity-sec8b776536b/1/web/1#sec314c3af61))
- - iOS 16: [restricted Userclients](https://saaramar.github.io/ios16_restricted_iouserclients/)
+ - iOS 16+: [restricted Userclients](https://saaramar.github.io/ios16_restricted_iouserclients/)
  - [some resources](https://github.com/houjingyi233/macOS-iOS-system-security) about iOS/ MacOS system security
  - Clone your finger - [bypassing TouchID](https://wojciechregula.blog/post/clone-you-finger-bypassing-touchid/)
  - VPNs on iOS are a [scam](https://www.michaelhorowitz.com/VPNs.on.iOS.are.scam.php) and somehow [broken](https://archive.is/CaFL2)
@@ -90,7 +90,7 @@
  - What [if](https://security.apple.com/blog/what-if-we-had-sockpuppet-in-ios16/) we had the SockPuppet vulnerability in iOS 16?
  - Apple [Health Privacy Overview](https://www.apple.com/ios/health/pdf/Health_Privacy_White_Paper_May_2023.pdf) - how the Health app and HealthKit protect your privacy
  - [App](https://support.apple.com/HT212025) Tracking Transparency
- - (iOS [17.0](https://www.apple.com/ios/ios-17/pdf/iOS_All_New_Features.pdf)) features: Link Tracking Protection in Messages, Mail, and Safari; Communication Safety & Sensitive Content Warning; Photos privacy prompt improvements; Add-only Calendar permission; App privacy improvements; more secure Lockdown Mode; Privacy changes with [Safari 17](https://cunderwood.dev/2023/06/09/privacy-changes-coming-to-safari-17/)
+ - (iOS [17.0+](https://www.apple.com/ios/ios-17/pdf/iOS_All_New_Features.pdf)) features: Link Tracking Protection in Messages, Mail, and Safari; Communication Safety & Sensitive Content Warning; Photos privacy prompt improvements; Add-only Calendar permission; App privacy improvements; more secure Lockdown Mode; Privacy changes with [Safari 17](https://cunderwood.dev/2023/06/09/privacy-changes-coming-to-safari-17/)
  - An [analysis](https://googleprojectzero.blogspot.com/2023/10/an-analysis-of-an-in-the-wild-ios-safari-sandbox-escape.html) of an in-the-wild iOS Safari WebContent to GPU Process exploit
  - Advancing iMessage security: iMessage Contact Key [Verification](https://security.apple.com/blog/imessage-contact-key-verification)
  - [Operation Triangulation](https://media.ccc.de/v/37c3-11859-operation_triangulation_what_you_get_when_attack_iphones_of_researchers): What You Get When Attack iPhones of Researchers
@@ -100,10 +100,11 @@
  - how Apps [abuse](https://www.youtube.com/watch?v=4ZPTjGG9t7s) Push Notifications for Tracking
  - App privacy [report](https://support.apple.com/102188)
  - (A17 Pro chip and above) [Apple Intelligence](https://www.apple.com/apple-intelligence/) & [Private Cloud Compute](https://security.apple.com/blog/private-cloud-compute/)
- - (iOS [18](https://www.apple.com/newsroom/2024/06/apple-extends-its-privacy-leadership-with-new-updates-across-its-platforms/)) Locked and hidden apps, Contacts permission improvements, Accessory Setup Kit, [Rotate Wi-Fi Address](https://www.macrumors.com/2024/06/10/ios-18-rotate-wifi-address/)
+ - (iOS [18+](https://www.apple.com/newsroom/2024/06/apple-extends-its-privacy-leadership-with-new-updates-across-its-platforms/)) Locked and hidden apps, Contacts permission improvements, Accessory Setup Kit, [Rotate Wi-Fi Address](https://www.macrumors.com/2024/06/10/ios-18-rotate-wifi-address/)
  - (iPhone 16 / A18 chip and above) [Secure Exclave](https://mastodon.social/@_inside/112552696723119626) like the M4 (and above) iPad Pro
- - (iOS 18) [Inactivity Reboot](https://naehrdine.blogspot.com/2024/11/reverse-engineering-ios-18-inactivity.html)
+ - (iOS 18+) [Inactivity Reboot](https://naehrdine.blogspot.com/2024/11/reverse-engineering-ios-18-inactivity.html)
  - You can be an iOS hacker: Stack Pivots and JOP/ROPs [Youtube Video](https://www.youtube.com/watch?v=2f9KQIL5jFs)
+ - (iOS 15+) Mail Privacy [Protection](https://support.apple.com/guide/iphone/iphf084865c7/ios)
 
 
 
