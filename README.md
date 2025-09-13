@@ -105,6 +105,7 @@
  - (iOS 18+) [Inactivity Reboot](https://naehrdine.blogspot.com/2024/11/reverse-engineering-ios-18-inactivity.html)
  - You can be an iOS hacker: Stack Pivots and JOP/ROPs [Youtube Video](https://www.youtube.com/watch?v=2f9KQIL5jFs)
  - (iOS 15+) Mail Privacy [Protection](https://support.apple.com/guide/iphone/iphf084865c7/ios)
+ - (A19 chip and above) [Memory Integrity Enforcement](https://security.apple.com/blog/memory-integrity-enforcement) (MIE)
 
 
 
