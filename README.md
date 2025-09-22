@@ -108,6 +108,7 @@
  - (A19 chip and above) [Memory Integrity Enforcement](https://security.apple.com/blog/memory-integrity-enforcement) (MIE)
  - (iOS 26+) Safari [Advanced Fingerprinting Protection](https://www.apple.com/os/pdf/All_New_Features_iOS_26_Sept_2025.pdf)
  - (iOS 26+) Safari Integrity-Policy header on script destinations [enforcement](https://webkit.org/blog/17333/webkit-features-in-safari-26-0/#security)
+ - (iOS 26+) [manage](https://support.apple.com/111806) USB and other accessories connections
 
 
 
