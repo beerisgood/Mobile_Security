@@ -107,6 +107,7 @@
  - (iOS 15+) Mail Privacy [Protection](https://support.apple.com/guide/iphone/iphf084865c7/ios)
  - (A19 chip and above) [Memory Integrity Enforcement](https://security.apple.com/blog/memory-integrity-enforcement) (MIE)
  - (iOS 26+) Safari [Advanced Fingerprinting Protection](https://www.apple.com/os/pdf/All_New_Features_iOS_26_Sept_2025.pdf)
+ - (iOS 26+) Safari Integrity-Policy header on script destinations [enforcement](https://webkit.org/blog/17333/webkit-features-in-safari-26-0/#security)
 
 
 
