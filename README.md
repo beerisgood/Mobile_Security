@@ -110,6 +110,7 @@
  - (iOS 26+) Safari Integrity-Policy header on script destinations [enforcement](https://webkit.org/blog/17333/webkit-features-in-safari-26-0/#security)
  - (iOS 26+) [manage](https://support.apple.com/111806) USB and other accessories connections
  - Is Apple Security a MYTH? [Video](https://www.youtube.com/watch?v=sZS3hADA324)
+ - (devices with Apple C1/ C1X modem) [Limit](https://support.apple.com/126101) precise location from cellular networks
 
 
 
